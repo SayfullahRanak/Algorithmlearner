@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Algorithm learner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom_view">CustomView</string>
+    <string name="title_activity_simulation">simulation</string>
+    <string name="title_activity_start_page">Algorithm Tutorial</string>
+    <string name="Sort">Insertion Sort</string>
+    <string name="title_activity_stack">stack</string>
+</resources>
